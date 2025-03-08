@@ -441,7 +441,7 @@ span {
 }
 
 .resume-preview img {
-    width: 50%;
+    width: 22%;
     border: .2rem solid var(--main-color);
     border-radius: 1rem;
     box-shadow: 0 0 1rem var(--main-color);
